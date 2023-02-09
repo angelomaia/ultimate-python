@@ -1,5 +1,5 @@
 ```
-This entire repository was cloed from huangsam
+This entire repository was cloned from huangsam
 ```
 
 # Ultimate Python study guide
